@@ -1,1 +1,2 @@
 Toto je moje cvicenie s Gitom
+V nedelu som urobila zmenu
